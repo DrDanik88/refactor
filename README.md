@@ -25,4 +25,4 @@ Provide a short description explaining the what, why, and how of your project. U
 - Images are loading properly on large screens only
 - Smaller screens will not load well as it is not reactive code yet
 - Page has been tested in Chrome and Firefox
-- 
+- Code validated to fit best practices and industry standars with https://www.freeformatter.com/html-validator.html
